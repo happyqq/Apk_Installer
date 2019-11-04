@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Apk_Installer' target in the 'Apk_Installer' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

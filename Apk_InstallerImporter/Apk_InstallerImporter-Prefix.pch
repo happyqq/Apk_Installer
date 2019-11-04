@@ -1,0 +1,6 @@
+//
+// Prefix header for all source files of the 'Apk_InstallerImporter' target in the 'Apk_InstallerImporter' project
+//
+
+#ifdef __OBJC__
+#endif
